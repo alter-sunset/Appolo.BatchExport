@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>ADM.BatchExport</Name>
+		<FullClassName>Appolo.BatchExport.App</FullClassName>
+		<Assembly>Appolo.BatchExport\Appolo.BatchExport.dll</Assembly>
+		<AddInId>23972D44-95D5-4147-9C4E-2517ABAF4780</AddInId>
+		<VendorId>Appolo</VendorId>
+		<VendorDescription>Appolo</VendorDescription>
+	</AddIn>
+</RevitAddIns>
